@@ -11,6 +11,6 @@ Utilizes TensorFlow and Keras to create a Convolutional Neural Network that clas
 
 Trained for 50 Epochs
 
-**Training Accuracy** = 95.26 %
+**Training Accuracy** = 95.26 % <br>
 **Validation Accuracy** = 98 %
 
