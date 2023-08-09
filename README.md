@@ -1,4 +1,4 @@
-# Brain-Tumour-Detection
+# Brain Tumour Detection
 > Dataset from [https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 Utilizes TensorFlow and Keras to create a Convolutional Neural Network that classifies whether the given MRI Scan of a brain has a Tumor or not. 
